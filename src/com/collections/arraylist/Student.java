@@ -11,6 +11,9 @@ public class Student {
         this.stuID = stuID;
     }
 
+    public Student(String number, int i, int marks) {
+    }
+
     public void setName(String name) {
         this.name = name;
     }
